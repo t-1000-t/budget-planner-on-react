@@ -23,7 +23,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://t-1000-t.github.io/budget-planner-on-react",
   "eslintConfig": {
     "extends": "react-app"
   },
